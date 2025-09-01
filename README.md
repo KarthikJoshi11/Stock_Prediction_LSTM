@@ -20,8 +20,8 @@ This repository contains a Python script that uses a Long Short-Term Memory (LST
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url]
-    cd [your-repo-name]
+    git clone https://github.com/KarthikJoshi11/Stock_Prediction_LSTM.git
+    cd Stock_Prediction_LSTM
     ```
 
 2.  **Install the required libraries:**
