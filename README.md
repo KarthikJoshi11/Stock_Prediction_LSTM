@@ -1,7 +1,7 @@
-#Stock Price Prediction using LSTM
+Stock Price Prediction using LSTM
 This repository contains a Python script that uses a Long Short-Term Memory (LSTM) neural network to predict future stock prices based on historical data. The model is built using Keras and TensorFlow.
 
-#Key Features
+Key Features
 Time-Series Forecasting: The project uses a multi-step time-series approach with a look_back window to capture temporal dependencies in the data.
 
 Data Preprocessing: It includes a custom preprocessing script to prepare the data for the LSTM model, including min-max scaling and sequence creation.
